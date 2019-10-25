@@ -2,6 +2,7 @@
 Código WebScraper desenvolvido em Java utilizando Programação Orientada a Objetos, juntamente com a biblioteca JSoup
 
 ####################################################################################################################
+
 O E-Commerce utilizado para realizar o WebScraper foi o https://www.submarino.com.br/
 
 Para executar o projeto na pasta, em /dist encontra-se um executável com a extensão .jar juntamente com a pasta /lib
@@ -17,4 +18,5 @@ Ao digitar a url e confirmar irá abrir um JFrame informando ao usuário as info
 preço, a descrição e a ficha técnica daquele produto.
 
 *O projeto foi desenvolvido utilizando a IDE Netbeans Projects.
+
 ####################################################################################################################
